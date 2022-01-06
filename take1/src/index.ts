@@ -1,7 +1,7 @@
 import knex from "knex"; 
 
 const myKnexConfig = {
-    client: 'postgresql',
+    client: 'postgres',
     connection: "someconnection",
     pool: {
         min:1, 
