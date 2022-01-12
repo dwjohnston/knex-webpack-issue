@@ -47,6 +47,6 @@ TypeError: The "original" argument must be of type Function
 
 **Take 2 Solved**
 
+Solves take2. 
 
-**Take 3 Solved**
 
