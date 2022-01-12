@@ -2,6 +2,12 @@
 Reproducing an issue I'm having with knex and webpack. 
 
 
+## Pertinent issues
+
+https://github.com/knex/knex/issues/4441
+https://github.com/knex/knex/issues/4921
+
+
 **Take 1** - Abandoned. Nothing to see here. 
 
 
